@@ -1,5 +1,3 @@
-### rpg_jogos
-
 JOGO DE RPG - Python + banco de dados SQLite
 ===========================================
 
